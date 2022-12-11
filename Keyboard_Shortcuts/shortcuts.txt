@@ -1,0 +1,6 @@
+		Chrome Shortcuts
+ctrl + shift + i   -> open inspect tool
+ctrl + f            -> search element 
+
+		Eclipse Shortcuts
+ctrl + shift + o     -> Import pachages and remove unused packages or references
